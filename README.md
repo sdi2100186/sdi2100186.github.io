@@ -1,7 +1,7 @@
 # progintro/hw0-sdi2100186
  
 LEVEL 0
-jhn@DESKTOP-4NIV0U0:/home$ ssh bandit0@bandit.labs.overthewire.org -p 2220
+$ ssh bandit0@bandit.labs.overthewire.org -p 2220
 The authenticity of host '[bandit.labs.overthewire.org]:2220 ([51.20.13.48]:2220)' can't be established.
 ECDSA key fingerprint is SHA256:IJ7FrX0mKSSHTJ63ezxjqtnOE0Hg116Aq+v5mN0+HdE.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
